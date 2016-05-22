@@ -13,3 +13,6 @@ libraryDependencies ++= Seq(
   "org.hibernate" % "hibernate-entitymanager" % "4.3.7.Final"
 )
 
+
+
+fork in run := true
